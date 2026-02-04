@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Helloproject/Helloproject.csproj" DisplayName="HelloProject" />
+  <Project Path="StudentList/StudentList.csproj" Id="893476fa-61de-4a6b-9e49-16878aa8bb51" />
+</Solution>
