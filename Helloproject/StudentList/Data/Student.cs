@@ -6,15 +6,15 @@ namespace StudentList.Data
 {
     public class Student
     {
-        public List<string?> Students { get; set; }
+        public IEnumerable<string?> Students { get; set; }
 
         public Student()
         {
             Students = new List<string?>()
             {
-                "Thomas",
-                "Kristian",
-                "Jens"
+                //"Thomas",
+                //"Joe",
+                //"Bob"
             };
         }
 
