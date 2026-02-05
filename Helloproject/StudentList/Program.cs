@@ -11,7 +11,7 @@ Student stu = new Student()
     YearOfBirth = 1999
 };
 
-if (stu.Students == null || stu.Students.Any())
+if (stu.Students == null)
 {
     Console.WriteLine("The List is empty");
 }
@@ -36,8 +36,22 @@ else
     }
 }
 
+int charCount = 0;
 
-Console.WriteLine(stu.Students.Any()
-    );
+foreach (string? s in stu.Students)
+{
+    if (string.IsNullOrWhiteSpace(s))
+        continue;
 
+    charCount += s.Length;
+}
+
+Console.WriteLine("Number of entries: " + stu.Students.Count());
+Console.WriteLine("Number of characters: " + charCount);
+
+
+// lambda 
+//Console.WriteLine("Number of characters: " + 
+//    stu.Students.Where(s => !string.IsNullOrWhiteSpace(s)).Sum(s => s.Length)
+//    );
 

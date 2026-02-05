@@ -12,9 +12,10 @@ namespace StudentList.Data
         {
             Students = new List<string?>()
             {
-                //"Thomas",
-                //"Joe",
-                //"Bob"
+                "Thomas",
+                "Joe",
+                "Bob",
+                " "
             };
         }
 
