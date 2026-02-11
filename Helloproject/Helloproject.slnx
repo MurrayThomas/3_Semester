@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ConsoleWebScraper/ConsoleWebScraper.csproj" Id="187e5747-5188-46a6-85e8-02d85ac7bb8b" />
   <Project Path="Helloproject/Helloproject.csproj" />
   <Project Path="ObjectInitialization/ObjectInitialization.csproj" Id="349fa5e7-3941-44bd-a9b1-6132c0121eb7" />
   <Project Path="PolymorfAnimals/PolymorfAnimals.csproj" Id="a841b6aa-3f09-478c-b209-c6aae946a52c" />
