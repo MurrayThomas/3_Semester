@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ConsoleWebScraper/ConsoleWebScraper.csproj" Id="187e5747-5188-46a6-85e8-02d85ac7bb8b" />
+  <Project Path="ControlFlow/ControlFlow.csproj" Id="32e11594-0166-4f2d-a56b-2b4dbe1630b9" />
   <Project Path="Helloproject/Helloproject.csproj" />
   <Project Path="InterfacesAndLists/InterfacesAndLists.csproj" Id="ed1db927-5f06-49a6-b4ba-1abb3de5b19c" />
   <Project Path="ObjectInitialization/ObjectInitialization.csproj" Id="349fa5e7-3941-44bd-a9b1-6132c0121eb7" />
