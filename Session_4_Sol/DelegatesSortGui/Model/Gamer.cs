@@ -1,0 +1,19 @@
+﻿namespace DelegatesSortGui.Model {
+    public class Gamer {
+
+        public Gamer(int id, string nickName, int highScore) {
+            Id = id;
+            NickName = nickName;
+            HighScore = highScore;
+        }
+
+        public int Id { get; set; }
+        public string NickName { get; set; }
+        public int HighScore { get; set; }
+
+
+        public override string ToString() {
+            return $"{Id} {NickName} {HighScore}";
+        }
+    }
+}

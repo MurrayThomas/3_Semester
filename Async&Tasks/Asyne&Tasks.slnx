@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Async/Async.csproj" />
+  <Project Path="AsyncGuiSimple/AsyncGuiSimple.csproj" />
+</Solution>
