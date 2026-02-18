@@ -4,7 +4,6 @@
   <Project Path="Helloproject/Helloproject.csproj" />
   <Project Path="InterfacesAndLists/InterfacesAndLists.csproj" Id="ed1db927-5f06-49a6-b4ba-1abb3de5b19c" />
   <Project Path="ObjectInitialization/ObjectInitialization.csproj" Id="349fa5e7-3941-44bd-a9b1-6132c0121eb7" />
-  <Project Path="PolymorfAnimals/PolymorfAnimals.csproj" Id="a841b6aa-3f09-478c-b209-c6aae946a52c" />
   <Project Path="StudentList/StudentList.csproj" Id="893476fa-61de-4a6b-9e49-16878aa8bb51" />
   <Project Path="TestProject/SalaryTests.csproj" Id="071020b3-9a7e-444b-ad30-5f8787e387d2" />
   <Project Path="WinFormsApp1/WinFormsApp1.csproj" Id="0718bbf9-4835-455a-a076-8abe0a8c2097" />
